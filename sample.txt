@@ -2,3 +2,4 @@
 commit: Lưu lại trạng thái của index
 pull: Lấy nội dung của remote repository
 nội dung commit 2   
+nội dung    commit 3 tu br Dev
